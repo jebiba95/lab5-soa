@@ -2,7 +2,6 @@
 ### Gradle template
 .gradle
 build/
-src/main/resources/application.properties
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -30,3 +29,4 @@ gradle-app.setting
 hs_err_pid*
 
 /.idea/
+src/main/resources/application.properties
